@@ -6,7 +6,7 @@ Django==2.0.6
 django-allauth==0.36.0
 html5lib==1.0.1
 idna==2.6
-lxml==4.2.1
+lxml==4.6.2
 oauthlib==2.1.0
 PyJWT==1.6.4
 python3-openid==3.1.0
